@@ -1,4 +1,3 @@
-<!-- src/views/WeightView.vue -->
 <template>
     <div>
       <WeightConversion />

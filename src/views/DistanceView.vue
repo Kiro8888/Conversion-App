@@ -1,4 +1,3 @@
-<!-- src/views/DistanceView.vue -->
 <template>
     <div>
       <DistanceConversion />

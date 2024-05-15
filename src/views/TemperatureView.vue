@@ -1,4 +1,3 @@
-<!-- src/views/TemperatureView.vue -->
 <template>
     <div>
       <TemperatureConversion />

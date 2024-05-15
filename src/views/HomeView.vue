@@ -1,4 +1,3 @@
-<!-- src/views/HomeView.vue -->
 <template>
     <link rel="stylesheet" href="css/home.css">
     <div class="home">
